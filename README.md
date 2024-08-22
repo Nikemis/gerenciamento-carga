@@ -29,7 +29,6 @@ Entrada e Saída
 Entrada:
 
 Uma matriz n x m onde cada célula contém um número inteiro que representa o tipo de contêiner ou 0 se estiver vazia.
-Saída:
 
 Uma lista de blocos encontrados, onde cada bloco é representado por uma lista de coordenadas (células) e o tipo de contêiner.
 A quantidade total de contêineres em cada bloco.
