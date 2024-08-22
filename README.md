@@ -10,7 +10,7 @@ Desenvolver um sistema que gerencie eficientemente o armazenamento de contêiner
 
 ## Descrição do Problema
 
-Você foi contratado por uma empresa de logística para criar uma solução que aborde os seguintes aspectos:
+Você foi contratado por uma empresa de logística para criar uma solução
 
 ## Matriz de Armazenamento
 
