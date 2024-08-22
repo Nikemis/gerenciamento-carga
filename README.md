@@ -1,6 +1,7 @@
 Este projeto é um desafio acadêmico, simulado como um hackathon. O objetivo principal é desenvolver um sistema para otimizar o armazenamento e o carregamento de contêineres em um terminal portuário. O porto é organizado em um layout de grid onde cada célula representa um espaço de armazenamento para contêineres.
 
 Problema
+
 O seu grupo de desenvolvedores foi contratado por uma empresa de logística para criar um sistema que gerencie o armazenamento de contêineres no porto. A solução deve abordar os seguintes aspectos:
 
 Matriz de Armazenamento:
