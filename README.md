@@ -12,7 +12,7 @@ Desenvolver um sistema que gerencie eficientemente o armazenamento de contêiner
 
 Você foi contratado por uma empresa de logística para criar uma solução
 
-## Matriz de Armazenamento
+Matriz de Armazenamento
 
 O porto é representado por uma matriz n x m, onde:
 
