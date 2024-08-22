@@ -36,13 +36,11 @@ Otimização:
 
 Propor uma maneira de reorganizar a matriz para agrupar contêineres do mesmo tipo, maximizando o tamanho dos blocos contíguos.
 
-## Entrada e Saída
-
-Entrada
+## Entrada
 
 Uma matriz n x m onde cada célula contém um número inteiro representando o tipo de contêiner ou 0 se estiver vazia.
 
-Saída
+## Saída
 Uma lista de blocos encontrados, onde cada bloco é representado por:
 
 Uma lista de coordenadas (células).
